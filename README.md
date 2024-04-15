@@ -1,6 +1,6 @@
 # WorkAround Explorer
 
-WorkAround Explorer is a project that allows users to explore salaries by role and company. This project was created to explore JavaScript Modules.
+WorkAround Explorer is a project that allows users to explore salaries by role and company. This project was created to solidify my understanding of JavaScript Modules.
 
 ## Project Structure
 
